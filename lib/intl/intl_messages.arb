@@ -1,0 +1,83 @@
+{
+  "@@last_modified": "2020-05-19T16:31:25.807919",
+  "title": "Flutter APP",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Home",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "transceiver": "transceiver",
+  "@transceiver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "news": "news",
+  "@news": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mine": "mine",
+  "@mine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "release": "release",
+  "@release": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "messageCenter": "Message Center",
+  "@messageCenter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pushSettings": "Push settings",
+  "@pushSettings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myComment": "My Comment",
+  "@myComment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chat": "Chat",
+  "@chat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "Message",
+  "@message": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nearby": "Nearby",
+  "@nearby": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newcomer": "Newcomer",
+  "@newcomer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "goddess": "Goddess",
+  "@goddess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "member": "Member",
+  "@member": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onlineFirst": "Online first",
+  "@onlineFirst": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

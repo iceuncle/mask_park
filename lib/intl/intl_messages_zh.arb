@@ -1,0 +1,84 @@
+{
+  "@@last_modified": "2020-05-19T11:54:13.548683",
+  "@@locale": "zh",
+  "title": "Flutter应用",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "首页",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "transceiver": "电台",
+  "@transceiver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "news": "消息",
+  "@news": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mine": "我",
+  "@mine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "release": "发布",
+  "@release": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "messageCenter": "消息中心",
+  "@messageCenter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pushSettings": "推送设置",
+  "@pushSettings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myComment": "我的评价",
+  "@myComment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chat": "聊天",
+  "@chat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "系统通知",
+  "@message": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nearby": "附近",
+  "@nearby": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newcomer": "新注册",
+  "@newcomer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "goddess": "女神",
+  "@goddess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "member": "会员",
+  "@member": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onlineFirst": "当前在线优先",
+  "@onlineFirst": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

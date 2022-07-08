@@ -1,0 +1,144 @@
+name: maskpark
+description: A new Flutter application.
+version: 1.0.0+1
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.17.0
+  cupertino_icons: ^1.0.5
+#  flutter_splash_screen: ^0.1.0
+  http: ^0.13.4
+  shared_preferences: ^2.0.15
+  image_picker: ^0.8.5+3
+  cached_network_image: ^3.2.1
+  dio: ^4.0.6
+  json_annotation: ^4.5.0
+  flutter_swiper: ^1.1.6
+  sprintf: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+#  intl_translation: ^0.17.10+1
+  build_runner: ^2.1.11
+  json_serializable: ^6.2.0
+
+#dependency_overrides:
+#  intl: ^0.17.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/06_avatar.png
+    - images/06_dropdown.png
+    - images/06_more.png
+    - images/07_lock_icon.png
+    - images/07_topmore_light.png
+    - images/10_banner.png
+    - images/10_chat.png
+    - images/10_chat_icon.png
+    - images/10_dropdown.png
+    - images/10_exercise.png
+    - images/10_food.png
+    - images/10_foodie.png
+    - images/10_forbidden.png
+    - images/10_game.png
+    - images/10_good_icon.png
+    - images/10_hope_icon.png
+    - images/10_location.png
+    - images/10_movie.png
+    - images/10_people_icon.png
+    - images/10_point_icon.png
+    - images/10_shopping.png
+    - images/10_social.png
+    - images/10_time_icon.png
+    - images/10_travel.png
+    - images/12_prompt.png
+    - images/12_service_icon.png
+    - images/15_avatar_icon.png
+    - images/15_information.png
+    - images/15_like.png
+    - images/15_wallet.png
+    - images/account_icon.png
+    - images/agreebox.png
+    - images/agreebox_gray.png
+    - images/arrow_icon.png
+    - images/back_icon.png
+    - images/blocked.png
+    - images/boy_light.png
+    - images/burned_icon.png
+    - images/chat.png
+    - images/chat_light.png
+    - images/close.png
+    - images/close_light.png
+    - images/comment.png
+    - images/comment_icon.png
+    - images/comment_light.png
+    - images/evaluation.png
+    - images/evaluation_light.png
+    - images/female_icon.png
+    - images/fire_icon.png
+    - images/gift_icon.png
+    - images/girl_light.png
+    - images/home.png
+    - images/home_light.png
+    - images/join_icon.png
+    - images/landmark_icon.png
+    - images/like_icon.png
+    - images/male_icon.png
+    - images/microphone.png
+    - images/microphone_light.png
+    - images/mine.png
+    - images/mine_light.png
+    - images/new.png
+    - images/new_light.png
+    - images/paid_icon.png
+    - images/park_icon.png
+    - images/praise.png
+    - images/praise_light.png
+    - images/search.png
+    - images/self_icon.png
+    - images/sign_up.png
+    - images/sign_up_light.png
+    - images/transceiver.png
+    - images/transceiver_light.png
+    - images/view_icon.png
+    - images/vip_icon.png
+    - images/07like.png
+    - images/07love_solid.png
+    - images/10_goddess_icon.png
+    - images/10_realpeople_icon.png
+    - images/show_icon_01.png
+    - images/browse_icon.png
+    - images/triangle.png
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

@@ -1,0 +1,2 @@
+flutter pub pub run intl_translation:extract_to_arb --output-dir=lib/intl lib/intl/stock_string.dart
+flutter pub pub run intl_translation:generate_from_arb --output-dir=lib/intl --no-use-deferred-loading lib/intl/stock_string.dart lib/intl/intl_*.arb
